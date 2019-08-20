@@ -1,0 +1,60 @@
+{
+	"results": [{
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "alexander",
+			"last": "baumg‰rtner"
+		},
+		"location": {
+			"street": "uhlandstraﬂe 64",
+			"city": "rosenfeld",
+			"state": "schleswig-holstein",
+			"postcode": 94425,
+			"coordinates": {
+				"latitude": "-46.2463",
+				"longitude": "-164.5039"
+			},
+			"timezone": {
+				"offset": "-5:00",
+				"description": "Eastern Time (US & Canada), Bogota, Lima"
+			}
+		},
+		"email": "alexander.baumg‰rtner@example.com",
+		"login": {
+			"uuid": "0046fbef-1aea-4369-b411-540a209c8bc1",
+			"username": "beautifulbutterfly406",
+			"password": "dietcoke",
+			"salt": "fM4OnyJl",
+			"md5": "64e9e2f3e3c309032dc0121746453daf",
+			"sha1": "acc0e90771cc5bb5e00db3582d7406abe4788268",
+			"sha256": "098d5ea160d131d335b6828ebbfc7a89cc37ce9d547f7f610e378625747e05fe"
+		},
+		"dob": {
+			"date": "1958-03-26T12:46:47Z",
+			"age": 61
+		},
+		"registered": {
+			"date": "2002-11-02T18:20:28Z",
+			"age": 16
+		},
+		"phone": "0105-8577178",
+		"cell": "0171-7590200",
+		"id": {
+			"name": "",
+			"value": null
+		},
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/66.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+		},
+		"nat": "DE"
+	}],
+	"info": {
+		"seed": "1128176846aa8ded",
+		"results": 1,
+		"page": 1,
+		"version": "1.2"
+	}
+}
